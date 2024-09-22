@@ -1,6 +1,3 @@
-#modal-packages
-Voici un exemple de `README.md` pour votre projet GitHub :
-
 # Modal Component for React
 
 ## Description
