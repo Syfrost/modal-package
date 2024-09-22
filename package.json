@@ -1,6 +1,6 @@
 {
   "name": "@syfrost/modal-pkg",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Modal component for React",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
